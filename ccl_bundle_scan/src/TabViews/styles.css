@@ -1,0 +1,23 @@
+.team_form_button_group {
+  display: flex;
+  justify-content: right;
+}
+.submitBtn {
+  margin-left: 10px;
+}
+.resetBtn {
+  border: none;
+}
+.formItem {
+    display: flex;
+    flex-direction: column;
+}
+
+.disableField {
+    color: black !important;
+}
+
+.inCount {
+    display: flex;
+    flex-direction: row;
+}
